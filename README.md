@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- 🧑‍🎓 I am a `Fresh Graduate` from the [Faculty Of Information System](https://fikti.gunadarma.ac.id/sisinformasi/) at [Gunadarma University](https://gunadarma.ac.id/)
+- 🧑‍🎓 I am a `Fresh Graduate` from the [Bachelor Of Information System](https://fikti.gunadarma.ac.id/sisinformasi/) at [Gunadarma University](https://gunadarma.ac.id/)
 - 💻 I’m currently learning Computer Science and Software Engineering.
 - 🐞 I love using Software to solve every Problem.
 - ⚙️ I love to practice logic at Leetcode.
