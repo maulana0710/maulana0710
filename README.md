@@ -31,21 +31,25 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&color=white)
+![PHP](https://img.shields.io/badge/PHP-white?logo=php&color=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-black?style=flat-square&logo=react&logoColor=white&color=61DBFB)
-![ReactJS](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&color=553C7B&logoColor=white)
-![ReactJS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss&color=075985&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React_Native-black?style=flat-square&logo=react&logoColor=white&color=61DBFB)
+![VueJS](https://img.shields.io/badge/Vue-white?logo=vue.js&color=white)
+![PHP](https://img.shields.io/badge/PHP-white?logo=php&color=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-black?style=flat-square&logo=bootstrap&color=553C7B&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=flat-square&logo=tailwindcss&color=075985&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Backend Development
 
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-black?style=flat-square&logo=express&color=black)
+![PHP](https://img.shields.io/badge/PHP-white?logo=php&color=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
@@ -60,10 +64,12 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android_studio-white?logo=android-studio&color=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
+![Apple](https://img.shields.io/badge/Mac-blue?logo=apple&color=gray)
 
 <br>
 
@@ -76,15 +82,15 @@
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
-  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=maulana2710&theme=dark&show_icons=true&count_private=true" />
+  <img  align="left"  src="https://github-readme-stats.vercel.app/api?username=maulana0710&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maulana2710&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maulana0710&theme=dark&hide_border=false" /> 
 </td>
 
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maulana2710&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maulana0710&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7"/>
 
   </td>
 </tr>
