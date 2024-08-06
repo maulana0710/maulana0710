@@ -33,6 +33,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-blue?logo=typescript&color=white)
 ![PHP](https://img.shields.io/badge/PHP-white?logo=php&color=white)
+![Static Badge](https://img.shields.io/badge/Python-white?logo=python&color=white)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
